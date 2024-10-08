@@ -57,5 +57,8 @@ The dataset used for this project is available at: [Kaggle - Electronic Products
    ```bash
    python app.py
    ```
+### UI Design
+![User Interface](https://raw.githubusercontent.com/Poorna-Kaushalya-Gamage/E-Commerce-Recommendation-System/2386d1783d3fed169068996381f1184b7a8a0602/ui1.png)
+
    
 Feel free to adjust any specific wording or details based on your preferences! If you need more help, just let me know! 😊
