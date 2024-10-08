@@ -1,5 +1,6 @@
-# E-Commerce-Recommendation-System
+# E-Commerce Recommendation System
 
+![Home Page](https://raw.githubusercontent.com/Poorna-Kaushalya-Gamage/E-Commerce-Recommendation-System/0d558358c6b02c904599d257c1c23861120472ec/Home%20Page.png)
 
 ### Project Overview
 
@@ -11,13 +12,13 @@ In the competitive landscape of e-commerce, providing personalized recommendatio
 
 ### Types of Recommendation Systems
 
-1. Collaborative Filtering:
+1. **Collaborative Filtering:**
    - Analyzes user behaviors to identify similarities among users or items, recommending products based on these patterns.
 
-2. Content-Based Filtering:
+2. **Content-Based Filtering:**
    - Recommends items similar to those the user has previously liked, based on the features of the items.
 
-3. Hybrid Systems:
+3. **Hybrid Systems:**
    - Combines collaborative and content-based approaches to enhance recommendation accuracy and overcome the limitations of each individual method.
 
 ### Objectives
@@ -33,29 +34,28 @@ The project aims to:
 - The dataset has been collected from Kaggle, featuring electronic product listings from various e-commerce websites. It includes essential details such as product names, brands, categories, prices, availability, condition, and merchant information.
 
 **Challenges in Dataset Selection:**
-- Data Quality: Missing or incorrect values can undermine the reliability of recommendations.
-- Outdated Information: Rapid changes in the electronic market can lead to obsolete datasets, resulting in irrelevant recommendations.
-- Feature Relevance: Irrelevant features can introduce noise, reducing the accuracy of the recommendation model.
+- **Data Quality:** Missing or incorrect values can undermine the reliability of recommendations.
+- **Outdated Information:** Rapid changes in the electronic market can lead to obsolete datasets, resulting in irrelevant recommendations.
+- **Feature Relevance:** Irrelevant features can introduce noise, reducing the accuracy of the recommendation model.
 
 ### Dataset
 
-The dataset used for this project is available at: Kaggle - Electronic Products Prices
+The dataset used for this project is available at: [Kaggle - Electronic Products Prices](https://www.kaggle.com/datasets/datafiniti/electronic-products-prices)
 
 ### Installation and Setup
 
-1. Clone the Repository:
+1. **Clone the Repository:**
    ```bash
    https://github.com/Poorna-Kaushalya-Gamage/E-Commerce-Recommendation-System.git
-   ```
 
-2. Install Required Dependencies:
+2. **Install Required Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the Application:
+3. **Run the Application:**
    ```bash
    python app.py
    ```
-
-Feel free to modify or expand any sections based on your project specifics or additional details you want to include! If you need further assistance, just let me know. 😊
+   
+Feel free to adjust any specific wording or details based on your preferences! If you need more help, just let me know! 😊
